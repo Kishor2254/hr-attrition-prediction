@@ -1,28 +1,24 @@
-# Project Title
-HR Attrition Prediction
-## Description
-This project is a Machine Learning model built using Python and Scikit-learn.
+# HR Attrition Prediction System
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+## 📌 Description
+This project predicts whether an employee will leave the company based on HR-related features such as job satisfaction, overtime, salary, and work-life balance. It helps organizations reduce employee turnover by identifying at-risk employees.
 
-## Steps
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Model Building
-- Model Evaluation
+## ⚙️ Features
+- Data preprocessing and cleaning
+- Handling missing values and categorical encoding
+- SMOTE for handling imbalanced dataset
 
-## Model Used
+## 🧠 Algorithms Used
 - Logistic Regression
+- Decision Tree
 - Random Forest
-- XGBoost (if used)
+- K-Nearest Neighbors (KNN)
 
-## Results
-Accuracy: 90%
+## 📊 Evaluation Metrics
+Accuracy, Precision, Recall, F1-score, ROC-AUC
 
-## Author
-Kishor R
+## 🛠️ Technologies Used
+Python, Pandas, NumPy, Scikit-learn, Seaborn
+
+## 🎯 Objective
+To help HR departments predict employee attrition and improve retention strategies.
